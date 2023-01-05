@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "typeinfo": "c",
+        "define.h": "c",
+        "iostream": "c",
+        "istream": "c",
+        "string": "c",
+        "sstream": "c"
+    }
+}
